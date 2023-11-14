@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afzalshaik333
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming for python
+- 🌱 I’m currently learning programming for javascript
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
 
